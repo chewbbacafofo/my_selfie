@@ -1,0 +1,33 @@
+#camera
+{
+    width:360px;
+    height:250px;
+    border:1px solid gray;
+}
+
+#logo_img
+{
+    width:150px;
+    border-radius:100px;
+}
+
+#textbox
+{
+    width:300px;
+}
+
+body
+{
+    background-color:#83c0f2;
+}
+
+.rodape{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color:pink;
+    line-height: 3;
+    text-align:center;
+
+}
